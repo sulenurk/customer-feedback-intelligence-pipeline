@@ -1,0 +1,3 @@
+ilk 500 satır ile eğittiğim modelde, test_review = "Customer service exceeded expectations: Negatif.
+
+Negatif yorumlar özeti:  setup was simple and took only a few minutes Navigation through menus is effortless The software runs without issues Shipping exceeded my expectations The item arrived sooner than expected Customer service exceeded expectations.

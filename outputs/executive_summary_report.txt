@@ -1,0 +1,17 @@
+========================================================================
+EXECUTIVE SUMMARY REPORT (AUTOMATED NLP INSIGHTS)
+========================================================================
+Generated Report Output
+
+------------------------------------------------------------------------
+🟢 POSITIVE FEEDBACK SUMMARY (What customers love):
+------------------------------------------------------------------------
+The Galaxy Note 2 has a great battery life that easily lasts two full days Excellent build quality and the device feels premium Fast shipping and the package arrived earlier than expected Customer support resolved my issue within minutes The screen is bright sharp and beautiful Performance is smooth even with many apps open The product exceeded all my expectations.
+
+------------------------------------------------------------------------
+🔴 NEGATIVE FEEDBACK SUMMARY (Pain points & areas of improvement):
+------------------------------------------------------------------------
+ setup was simple and took only a few minutes Navigation through menus is effortless The software runs without issues Shipping exceeded my expectations The item arrived sooner than expected Customer service exceeded expectations.
+
+========================================================================
+End of Report

@@ -198,13 +198,10 @@ Integrate the pipeline with a web-based dashboard to allow real-time exploration
 ## Positive Word Cloud Screenshot
 <img width="2264" height="1780" alt="positive_wordcloud_5" src="https://github.com/user-attachments/assets/f172c24c-d168-499f-80c0-a6c37aa0f0fb" />
 
-## Negative Word Cloud Screenshot
-<img width="2264" height="1780" alt="negative_wordcloud_5" src="https://github.com/user-attachments/assets/e1960c9d-21fb-4f03-b051-60fede7cf771" />
-
 ## Sample Executive Summary 
 ### Positive Feedback Summary
-Amazing battery life that easily lasts two full days Excellent build quality and the device feels premium Fast shipping and the package arrived earlier than expected The screen is bright sharp and beautiful Performance is smooth even with many apps open The product exceeded all my expectations Battery charging speed is incredibly fast.
+> Amazing battery life that easily lasts two full days Excellent build quality and the device feels premium Fast shipping and the package arrived earlier than expected The screen is bright sharp and beautiful Performance is smooth even with many apps open The product exceeded all my expectations Battery charging speed is incredibly fast.
 ------------------------------------------------------------------------
 ### Negative Feedback Summary
-The product failed to meet basic expectations. Battery life is terrible and drains within hours. The materials feel fragile and poorly made. The device freezes frequently during use. Battery degradation happened unusually fast. Overall this was a very disappointing purchase
+> The product failed to meet basic expectations. Battery life is terrible and drains within hours. The materials feel fragile and poorly made. The device freezes frequently during use. Battery degradation happened unusually fast. Overall this was a very disappointing purchase
 

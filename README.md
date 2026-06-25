@@ -1,3 +1,5 @@
+Python • PyTorch • Transformers • DistilBERT • BART • NLP • Hugging Face
+
 ## Project Overview
 
 This project implements an end-to-end Natural Language Processing (NLP) pipeline for automated customer review analysis. The system classifies customer sentiment, generates visual insights, and produces executive-level summaries from large collections of textual feedback.

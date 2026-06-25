@@ -10,7 +10,7 @@ import random
 # ==========================================
 # 1. SETTINGS
 # ==========================================
-EXCEL_FILE = "review.xlsx"
+EXCEL_FILE = "src/review.xlsx"
 COLUMN_NAME = "Review"
 OUTPUT_DIR = "./outputs"
 MODEL_PATH = "./checkpoint"

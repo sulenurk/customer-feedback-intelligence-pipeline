@@ -25,6 +25,10 @@ The goal of this project is to automate sentiment analysis and feedback summariz
 
 The sentiment classification model was fine-tuned using Amazon customer review data. This dataset provided labeled customer feedback used for model training, validation, and performance evaluation.
 
+**Dataset Size:** 400,000 labeled customer reviews
+
+**Class Distribution:** 200,000 Negative / 200,000 Positive (balanced)
+
 **Target Column:** Review (unstructured customer feedback)
 
 **Target Labels:** Binary sentiment classification (0 = Negative, 1 = Positive)
@@ -48,19 +52,22 @@ This dataset was not used during model training. Instead, it served as inference
 
 This separation allows the project to distinguish between model development and real-world business intelligence workflows.
 
-
 ## Results
 
-The final fine-tuned DistilBERT model achieved the following performance on the validation dataset:
+The final fine-tuned DistilBERT model was evaluated on a held-out validation dataset containing **400,000 labeled customer reviews**.
 
-| Metric           | Value  |
-| ---------------- | ------ |
-| Accuracy         | 93.29% |
-| F1 Score (Macro) | 93.29% |
-| Training Loss    | 0.1877 |
-| Validation Loss  | 0.1777 |
+| Metric         | Score      |
+| -------------- | ---------- |
+| Accuracy       | **93.29%** |
+| Precision      | **93.56%** |
+| Recall         | **92.99%** |
+| Macro F1 Score | **93.27%** |
 
-The close alignment between training and validation loss indicates stable convergence without significant overfitting.
+The close alignment between precision, recall, and F1-score indicates a well-balanced classifier with no significant bias toward either sentiment class.
+
+Confusion Matrix
+
+<img width="1536" height="1024" alt="confusion_matrix" src="https://github.com/user-attachments/assets/36273ee5-460f-47aa-bb12-8b1ee5d3e489" />
 
 ## Model Architecture
 

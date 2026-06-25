@@ -36,10 +36,10 @@ The sentiment classification model was fine-tuned using Amazon customer review d
 **Target Labels:** Binary sentiment classification (0 = Negative, 1 = Positive)
 
 **Preprocessing Steps:**
-
-* Missing value handling
-* Text normalization and whitespace cleanup
-* String casting and tokenization preparation
+- Tokenization using `distilbert-base-uncased`
+- Sequence truncation and padding to a maximum length of 128 tokens
+- Label column renaming from `label` to `labels` for Hugging Face Trainer compatibility
+- Conversion of tokenized datasets into PyTorch tensor format
 
 ### Demonstration Dataset
 

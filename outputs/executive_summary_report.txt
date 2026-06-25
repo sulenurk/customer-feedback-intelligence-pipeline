@@ -1,0 +1,17 @@
+========================================================================
+EXECUTIVE SUMMARY REPORT (AUTOMATED NLP INSIGHTS)
+========================================================================
+Generated Report Output
+
+------------------------------------------------------------------------
+🟢 POSITIVE FEEDBACK SUMMARY (What customers love):
+------------------------------------------------------------------------
+Amazing battery life that easily lasts two full days Excellent build quality and the device feels premium Fast shipping and the package arrived earlier than expected The screen is bright sharp and beautiful Performance is smooth even with many apps open The product exceeded all my expectations Battery charging speed is incredibly fast.
+
+------------------------------------------------------------------------
+🔴 NEGATIVE FEEDBACK SUMMARY (Pain points & areas of improvement):
+------------------------------------------------------------------------
+The product failed to meet basic expectations. Battery life is terrible and drains within hours. The materials feel fragile and poorly made. The device freezes frequently during use. Battery degradation happened unusually fast. Overall this was a very disappointing purchase
+
+========================================================================
+End of Report

@@ -1,0 +1,27 @@
+========================================================================
+EXECUTIVE SUMMARY REPORT (AUTOMATED NLP INSIGHTS)
+========================================================================
+Generated Report Output
+
+------------------------------------------------------------------------
+🟢 POSITIVE TEXT SUMMARY:
+------------------------------------------------------------------------
+I love this jumpsuit. It's fun, flirty, and fabulous! every time i wear it, i get nothing but great compliments! This shirt is very flattering to all due to the adjustable front tie. It is the perfect length to wear with leggings and it is sleeveless so it pairs well with any cardigan. I'm upset because for the price of the dress, i thought it was embroidered! no, that is a print on the fabric.
+
+------------------------------------------------------------------------
+🔴 NEGATIVE TEXT SUMMARY:
+------------------------------------------------------------------------
+The fabric feels cheap, like it will snag easily and will stretch out quickly. Bought a large, could barely pull up over my butt. It's cute but if your not a stick figure, this is not the suit for you.
+
+------------------------------------------------------------------------
+🟢 POSITIVE CUSTOMER REVIEW SUMMARY (What customers love):
+------------------------------------------------------------------------
+Customers mainly praise the product for its overall satisfaction, pretty design, tulle or layered detail, soft or silky fabric, and comfortable feel.
+
+------------------------------------------------------------------------
+🔴 NEGATIVE CUSTOMER REVIEW SUMMARY (Pain points & areas of improvement):
+------------------------------------------------------------------------
+Customers mainly complain about return or disappointment, sizing issues, poor fabric quality, zipper problems, and button placement issues.
+
+========================================================================
+End of Report
